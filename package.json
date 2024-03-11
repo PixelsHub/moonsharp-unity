@@ -1,0 +1,10 @@
+{
+    "name": "com.pixelshub.moonsharp",
+    "version": "1.0.0",
+    "displayName": "Moonsharp for Unity",
+    "author": {
+      "name": "PixelsHub",
+      "email": "desarrollo@pixels-hub.com",
+      "url": "https://pixels-hub.com"
+    }
+  }
